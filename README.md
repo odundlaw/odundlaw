@@ -48,18 +48,6 @@ I care about clean architecture, correct data models and software that holds up 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Selected open-source work
-
-| Project | Description | Stack |
-|---|---|---|
-| [cbt-backend](https://github.com/odundlaw/cbt-backend) | Backend for a computer-based testing (online exam) system | Go |
-| [go-ecommerce](https://github.com/odundlaw/go-ecommerce) | E-commerce REST API | Go |
-| [payment-parser](https://github.com/odundlaw/payment-parser) | Parser and executor for structured financial transaction instructions | JavaScript |
-| [zig-shell](https://github.com/odundlaw/zig-shell) | A Unix-style command shell built from scratch | Zig |
-| [liredit](https://github.com/odundlaw/liredit_backend) | Community discussion platform built on a GraphQL API | TypeScript, Apollo, Redis |
-
-> Most of my professional work is in private repositories.
-
 ### GitHub stats
 
 <p>
