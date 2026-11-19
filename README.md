@@ -51,6 +51,18 @@ I care about clean architecture, correct data models and software that holds up 
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=odundlaw&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odundlaw&layout=compact&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=odundlaw&show_icons=true&count_private=true&hide_rank=true&hide_border=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=odundlaw&show_icons=true&count_private=true&hide_rank=true&hide_border=true&theme=default" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=odundlaw&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odundlaw&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages" />
+  </picture>
+</p>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=odundlaw&hide_border=true&theme=github-dark-blue" />
+    <img height="180" src="https://streak-stats.demolab.com?user=odundlaw&hide_border=true&theme=default" alt="Contribution streak" />
+  </picture>
 </p>
